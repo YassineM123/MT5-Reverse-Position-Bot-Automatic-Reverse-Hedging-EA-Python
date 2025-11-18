@@ -1,6 +1,6 @@
 # MT5 Reverse-Position Bot
 
-A Python bot that automatically opens and manages reverse positions in MetaTrader 5.
+A Python bot that automatically opens and manages reverse positions in MetaTrader5.
 See full README.
 
 🚀 Features
